@@ -1,0 +1,5 @@
+D:\Projects\ToDoList\bin\Release\net7.0\publish\ToDoList\ToDoList.exe
+D:\Projects\ToDoList\bin\Release\net7.0\publish\ToDoList\ToDoList.dll
+D:\Projects\ToDoList\bin\Release\net7.0\publish\ToDoList\ToDoList.deps.json
+D:\Projects\ToDoList\bin\Release\net7.0\publish\ToDoList\ToDoList.runtimeconfig.json
+D:\Projects\ToDoList\bin\Release\net7.0\publish\ToDoList\ToDoList.pdb
